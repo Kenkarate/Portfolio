@@ -7,7 +7,7 @@ import suitejar from "../images/Suitejar-Best-Content-Marketing-Tool-Free-SEO-To
 function Card() {
   return (
     <>
-      <div className="lg:!w-[70vw] lg:!h-[50vh] mx-5  bg-white rounded-3xl lg:mx-52 mb-20 lg:!grid lg:!grid-cols-3  select-none">
+      <div className="lg:!w-[70vw] lg:!h-[50vh] mx-5 rounded-3xl lg:mx-52 mb-20 lg:!grid lg:!grid-cols-3  select-none">
         <div className="lg:!col-span-2 row-span-2 w-[90%] h-[350px] lg:!h-[90%]  rounded-3xl bg-[#ffffff] drop-shadow-2xl mx-auto my-auto overflow-hidden">
           <motion.img
             whileHover={{ y: -1600 }}
@@ -38,7 +38,7 @@ function Card() {
           </p>
         </div>
       </div>
-      <div className="lg:w-[70vw] lg:h-[50vh] mx-5  bg-white rounded-3xl lg:mx-52 flex flex-col-reverse lg:grid lg:grid-cols-3 select-none">
+      <div className="lg:w-[70vw] lg:h-[50vh] mx-5   rounded-3xl lg:mx-52 flex flex-col-reverse lg:grid lg:grid-cols-3 select-none">
         <div className="py-10 text-center px-5">
           <p className="text-2xl py-2 font-bold cursor-none select-none  text-[#DD5D5D]">
             Gallery Vision
@@ -71,7 +71,7 @@ function Card() {
           />
         </div>
       </div>
-      <div className="lg:!w-[70vw] lg:!h-[50vh] mx-5   bg-white rounded-3xl lg:mx-52 my-20 lg:!grid lg:!grid-cols-3  select-none">
+      <div className="lg:!w-[70vw] lg:!h-[50vh] mx-5 rounded-3xl lg:mx-52 my-20 lg:!grid lg:!grid-cols-3  select-none">
         <div className="lg:!col-span-2 row-span-2 w-[90%] h-[350px] lg:!h-[90%]  rounded-3xl bg-[#ffffff] drop-shadow-2xl mx-auto my-auto overflow-hidden">
           <motion.img
             whileHover={{ y: -1600 }}
@@ -104,7 +104,7 @@ function Card() {
           </p>
         </div>
       </div>
-      <div className="lg:w-[70vw] lg:h-[50vh] mx-5  bg-white rounded-3xl lg:mx-52 flex flex-col-reverse lg:grid lg:grid-cols-3 select-none">
+      <div className="lg:w-[70vw] lg:h-[50vh] mx-5 rounded-3xl lg:mx-52 flex flex-col-reverse lg:grid lg:grid-cols-3 select-none">
         <div className="py-10 text-center px-5">
           <p className="text-2xl py-2 font-bold cursor-none select-none text-[#DD5D5D]">
             Suitejar
