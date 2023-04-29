@@ -12,7 +12,7 @@ function Footer() {
           animate={{ x: -10, scale: 1 }}
           initial={{ scale: 0 }}
           transition={{ delay: 0.5, type: "spring" }}
-          className="flex py-4 text-4xl justify-center"
+          className="flex text-4xl justify-center"
         >
           <span className="pr-3">
             <a href="https://linkedin.com/in/ajeshofficial/">

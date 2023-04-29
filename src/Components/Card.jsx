@@ -4,6 +4,7 @@ import growth from "../images/Growth-Marketing-Agency-for-SaaS-Startups-growth-c
 import gallery from "../images/Digital-Music-Distribution-Sell-Your-Music-Online-Gallery-Vision_11zon.webp";
 import nintriva from "../images/Custom-Software-Development-App-Development-Nintriva_11zon.jpg";
 import suitejar from "../images/Suitejar-Best-Content-Marketing-Tool-Free-SEO-Tool_11zon.webp";
+
 function Card() {
   return (
     <>
@@ -23,7 +24,11 @@ function Card() {
             Growth.cx
           </p>
           <p>
-          growth.cx is a full service product marketing agency helping B2B SaaS startups outrun and outshine their competitors. We/They (depends on how you want to say) are a group of super passionate and highly qualified Growth Hackers, Product Marketers, Content Creators, Developers and Designers.
+            growth.cx is a full service product marketing agency helping B2B
+            SaaS startups outrun and outshine their competitors. We/They
+            (depends on how you want to say) are a group of super passionate and
+            highly qualified Growth Hackers, Product Marketers, Content
+            Creators, Developers and Designers.
           </p>
           <p className="mt-10 text-[20px] text-[#BD827E] hover:text-[#BD827E]  ">
             <a
@@ -33,7 +38,7 @@ function Card() {
               rel="noreferrer"
             >
               {" "}
-              View 
+              View
             </a>
           </p>
         </div>
@@ -57,7 +62,7 @@ function Card() {
               rel="noreferrer"
             >
               {" "}
-              View 
+              View
             </a>
           </p>
         </div>
@@ -99,7 +104,7 @@ function Card() {
               rel="noreferrer"
             >
               {" "}
-              View 
+              View
             </a>
           </p>
         </div>
@@ -110,10 +115,9 @@ function Card() {
             Suitejar
           </p>
           <p className="">
-            Digital Music Distribution Company <br />
-            We are music lovers! We are aggregators, marketers, and
-            distributors, and we cater to artists who love to showcase their
-            talent to the world.
+            SuiteJar's algorithm helps you automate & discover the pages that
+            you need to update in the priority order to rank on Google’s 1st
+            page
           </p>
           <p className="mt-10 text-[20px]  text-[#BD827E] hover:text-[#BD827E]  ">
             <a
@@ -123,7 +127,7 @@ function Card() {
               rel="noreferrer"
             >
               {" "}
-              View 
+              View
             </a>
           </p>
         </div>
